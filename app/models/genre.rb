@@ -20,3 +20,4 @@ class Genre < ActiveRecord::Base
   end
   artists
 end
+end
